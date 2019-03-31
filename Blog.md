@@ -6,6 +6,11 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | 김민석    | https://sqlsql.tistory.com/ | MS-SQL / DotNetCore / PowerShell | | |
 
+## ㄴ
+| Name | Site | scription | Social |Remarks|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 남정현    | https://medium.com/rkttu | Windows Server, .NET, Azur | | |
+
 
 ## ㅇ
 
