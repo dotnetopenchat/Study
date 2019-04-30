@@ -22,3 +22,4 @@
 | 함수형 반응형 프로그래밍  | 중급   | AbsoluteZero | http://shorturl.at/flwGQ | 무 | 스티븐 블랙히스, 앤서니 존스 지음 / 오현석 옮김  | |
 | 프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략 세트  | 초중급   | AbsoluteZero | http://shorturl.at/aeVWY | 무 | 구종만 지음  | |
 | 프로그래머, 수학으로 생각하라  | 초급   | AbsoluteZero | http://shorturl.at/adAR4 | 무 | 유키 히로시 지음 / 안동현 옮김  | |
+| Concrete Mathematics 구체 수학  | 초급   | AbsoluteZero | http://shorturl.at/arBCH | 무 | 로널드 그레이엄 , 도널드 커누스, 오렌 파타슈닉 지음 /  옮김  | |
