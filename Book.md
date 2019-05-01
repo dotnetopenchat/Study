@@ -13,4 +13,14 @@
 
 | 책 제목              | 내용     | 추천인    | 구매사이트 |E-Book  |   저 자     | 사이트  | 동영상|
 |:-------------------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-||        |     |          |      |  |          |         |   
+| 실용주의 프로그래머 | 중급 | AbsoluteZero | http://shorturl.at/eyFW8 | 무 | 앤드류 헌트, 데이비드 토머스 지음 / 김창준,정지호 옭김 | |
+| CODE | 중급 | AbsoluteZero | http://shorturl.at/xHQSU | 무 | 찰스 펫졸드 지음 / 김현규 옭김  | |
+| Clean Code | 중급 | AbsoluteZero | http://shorturl.at/jxFLR | 무 | 로버트 C. 마틴 지음 / 박재호, 이해영 옮김  | |
+| Hard Code | 중고급 | AbsoluteZero | http://shorturl.at/aiKNU | 무 | 에릭 브레히너 지음 / 박재호, 이해영 옮김  | |
+| Head First Design Patterns | 중급 | AbsoluteZero | http://shorturl.at/cqxZ9 | 무 | 에릭 프리먼 지음 / 서환수 옮김  | |
+| 리팩토링: 코드 품질을 개선하는 객체지향 사고법 | 중급 | AbsoluteZero | http://shorturl.at/jouBY | 무 | 마틴 파울러 지음 / 김지원 옮김  | |
+| 함수형 반응형 프로그래밍 | 중급 | AbsoluteZero | http://shorturl.at/flwGQ | 무 | 스티븐 블랙히스, 앤서니 존스 지음 / 오현석 옮김  | |
+| 프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략 세트 | 초중급 | AbsoluteZero | http://shorturl.at/aeVWY | 무 | 구종만 지음  | |
+| 프로그래머, 수학으로 생각하라 | 초급 | AbsoluteZero | http://shorturl.at/adAR4 | 무 | 유키 히로시 지음 / 안동현 옮김  | |
+| Concrete Mathematics 구체 수학 | 초급 | AbsoluteZero | http://shorturl.at/arBCH | 무 | 로널드 그레이엄 , 도널드 커누스, 오렌 파타슈닉 지음 / 류광 옮김  | |
+| HEAD FIRST OBJECT ORIENTED ANALYSIS DESIGN  | 중급 | AbsoluteZero | http://shorturl.at/wyFJ4 | 무 | 브렛 맥래프린, 게리 폴리스, 데이빗 웨스트 지음 / 신광연, 박종걸 옮김  | |
