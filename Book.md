@@ -7,6 +7,8 @@
 | 한국어판 C# and the .NET 4 Platform | 중고급   | 푸 | https://jiandson.co.kr/books/53 | 무 | Andrew Troelsen | | |
 | 제프리 리처의 CLR via C#, 4판 | 중고급   | 별 |  | 무 | 제프리 리처 지음 / 김명신, 남정현 옮김|https://bjpublic.tistory.com/214 | |
 | C# 멀티스레드 프로그래밍(acorn+PACKT 시리즈) | 중고급   |  |  | 무 | 유진 아가포노프 지음 /  | |
+| Hello Coding 개념부터 처음 배우는 프로그래밍 | 입문 | 세미콜론 | https://book.naver.com/bookdb/book_detail.nhn?bid=12877969 | 유 | Pope Kim  | 무 |  https://www.youtube.com/channel/UCgbTc3-C54iadfhfghvwGMA/videos  | 
+| 이것이 C#이다 | 초급 | 세미콜론 | https://book.naver.com/bookdb/book_detail.nhn?bid=13745716 | 무 | 박상현 |https://cafe.naver.com/thisiscsharp  | https://youtu.be/4mHcfc-Sskg?list=PLVsNizTWUw7H1861aUZjGVEPaKqp6WMim | 
 
 
 ### IT/디자인패턴
