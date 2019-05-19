@@ -32,3 +32,5 @@
 | 프로그래머, 수학으로 생각하라 | 초급 | AbsoluteZero | [:link:](https://bit.ly/2GX1EiD) | 무 | 유키 히로시 지음 / 안동현 옮김  | |
 | Concrete Mathematics 구체 수학 | 초급 | AbsoluteZero | [:link:](https://bit.ly/2GWaqgX) | 무 | 로널드 그레이엄 , 도널드 커누스, 오렌 파타슈닉 지음 / 류광 옮김  | |
 | HEAD FIRST OBJECT ORIENTED ANALYSIS DESIGN  | 중급 | AbsoluteZero | [:link:](https://bit.ly/2V9OgQU) | 무 | 브렛 맥래프린, 게리 폴리스, 데이빗 웨스트 지음 / 신광연, 박종걸 옮김  | |
+| TopCoder 탑코더 알고리즘 트레이닝 | 중급 | 푸 | [:link:](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&barcode=9788968480553) | 무 | 타카하시 나오히로 지음 / 윤인성 옮김  | |
+
