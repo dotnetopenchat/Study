@@ -14,6 +14,7 @@
 | 제프리 리처의 CLR via C#, 4판 | 중고급   | 별 |  | 무 | 제프리 리처 지음 / 김명신, 남정현 옮김|[:link:](https://bjpublic.tistory.com/214) | |
 | Hello Coding 개념부터 처음 배우는 프로그래밍 | 입문 | 세미콜론 | [:link:](https://book.naver.com/bookdb/book_detail.nhn?bid=12877969) | 유 | Pope Kim  | 무 |  [:link:](https://www.youtube.com/channel/UCgbTc3-C54iadfhfghvwGMA/videos)  | 
 | 이것이 C#이다 | 초급 | 세미콜론 | [:link:](https://book.naver.com/bookdb/book_detail.nhn?bid=13745716) | 무 | 박상현 |[:link:](https://cafe.naver.com/thisiscsharp)  | [:link:](https://youtu.be/4mHcfc-Sskg?list=PLVsNizTWUw7H1861aUZjGVEPaKqp6WMim) | 
+| Essential C# 6.0(한국어판) | 초중급 | 남정현 | [:link:](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960778481&orderClick=LAG&Kc=) | 무 | 마크 미카엘리스 , 에릭 리퍼트 지음 || | 
 
 
 ### IT/디자인패턴
