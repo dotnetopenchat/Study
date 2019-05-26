@@ -39,5 +39,5 @@
 
 | 책 제목              | 내용     | 추천인    | 구매사이트 |E-Book  |   저 자     | 사이트  | 동영상|
 |:-------------------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| TCP/IP 소켓 프로그래밍 | 중급 |  | [:link:](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=539645) | 무 | David B. Makofske (지은이),최낙준 (옮긴이)| |
+| TCP/IP 소켓 프로그래밍 | 중급 | 별 | [:link:](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=539645) | 무 | David B. Makofske (지은이),최낙준 (옮긴이)| |
 | 실무자를 위한 C# 네트워크 프로그래밍 |  | 별 | [:link:](http://www.yes24.com/Product/goods/423613) | 무 | Richard Blum 저 / 김형규, 최낙준 편역  | |
