@@ -25,3 +25,13 @@
 | Name | Site | scription | Social |Remarks|
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | 정요한    | https://github.com/ingyeoking13 | c# 실전  | | |
+
+
+## L
+
+| Name | Site | scription | Social |Remarks|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| link2me    | https://link2me.tistory.com/category/C%23 | c#   | | |
+
+
+
