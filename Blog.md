@@ -27,11 +27,31 @@
 | 정요한    | https://github.com/ingyeoking13 | c# 실전  | | |
 
 
+## ㅊ
+
+| Name | Site | scription | Social |Remarks|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 최익필    | https://github.com/ingyeoking13 | c# 실전  | | |
+
+
+## I
+
+| Name | Site | scription | Social |Remarks|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| icodebroker    | https://icodebroker.tistory.com | c#   | | |
+
 ## L
 
 | Name | Site | scription | Social |Remarks|
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | link2me    | https://link2me.tistory.com/category/C%23 | c#   | | |
 
+ 
+ 
+ ## Y
+
+| Name | Site | scription | Social |Remarks|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| YUN DAE HEE    | https://076923.github.io/posts/C-1/ | c#   | | |
 
 
