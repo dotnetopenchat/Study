@@ -14,6 +14,7 @@
 | 제프리 리처의 CLR via C#, 4판 | 중고급   | 별 |  | 무 | 제프리 리처 지음 / 김명신, 남정현 옮김| [:link:](https://bjpublic.tistory.com/214) | |
 | C# 멀티스레드 프로그래밍(acorn+PACKT 시리즈) | 중고급   |  |  | 무 | 유진 아가포노프 지음 /  | |
 | 한국어판 C# and the .NET 4 Platform | 중고급   | 푸 | [:link:](https://jiandson.co.kr/books/53) | 무 | Andrew Troelsen | | |
+| c# in nutshell | 중고급   | 너구리씨 | [:link:](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650) | 무 | Joseph Albahari | | |
 
 ### IT/디자인패턴
 
