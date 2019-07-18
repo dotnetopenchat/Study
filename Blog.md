@@ -38,6 +38,13 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | c# TIPS    | http://csharp.tips/ | c# TIPS  | | |
 
+## G
+| Name | Site | scription | Social |Remarks|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| goldrushing  | https://blog.naver.com/goldrushing |   | | |
+
+
+
 ## I
 
 | Name | Site | scription | Social |Remarks|
@@ -51,8 +58,12 @@
 | link2me    | https://link2me.tistory.com/category/C%23 | c#   | | |
 
  
+## R
+| Name | Site | scription | Social |Remarks|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| RAPAPA DEV STORY   | http://rapapa.net/ | c#   | | |
  
- ## Y
+## Y
 
 | Name | Site | scription | Social |Remarks|
 |:--------:|:--------:|:--------:|:--------:|:--------:|
