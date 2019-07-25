@@ -18,6 +18,8 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | 유지혜    | https://jasmintime.com/ | MS-SQL 및 비주얼 스튜디오 | | |
 | 유지혜    | https://yoosple.com/    | 코딩트레이딩 및 타이젠 |  | |
+| 영원한 초보    | https://blog.naver.com/PostList.nhn?blogId=gmkjh74    | 데브 익스프레스 등등 |  | |
+
 
 
 ## ㅈ
