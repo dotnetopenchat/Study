@@ -14,3 +14,6 @@
 |:--------:|:--------:|:--------:|
 | Design com WPF! | WPF    | https://www.youtube.com/channel/UCf0J9AO-KeLEkBe3ZpVpfKQ |    
 | angelsix | WPF    | https://www.youtube.com/channel/UCJ3AxeCHGPZkMi3kRfCuiHw |
+| Caleb Curry | SignalR    | https://www.youtube.com/watch?v=kr8uHeNjOKw |
+
+
