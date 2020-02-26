@@ -7,6 +7,7 @@
 |    Lyn TV  | C#문법 / WPF        | https://www.youtube.com/channel/UCi0AcmKGMkNyTC20b5aNkaQ |    
 |    Dori Dori | Winform        |https://www.youtube.com/channel/UCwHgaNnrsqAyoCtqd2WbY1w/videos  | 
 |    VisualAcademy  | C#문법 및 ASP        |https://www.youtube.com/channel/UCwHgaNnrsqAyoCtqd2WbY1w/videos  | 
+|    트레커  | C# 프로그램 개발   | https://www.youtube.com/channel/UCJesFlWv5j9i_vUFB-4R5pw/videos?view=0&sort=p&shelf_id=2 | 
 
 
 ### 해외 영상 채널 
