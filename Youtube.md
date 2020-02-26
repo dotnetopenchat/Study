@@ -8,7 +8,9 @@
 |    Dori Dori | Winform        |https://www.youtube.com/channel/UCwHgaNnrsqAyoCtqd2WbY1w/videos  | 
 |    VisualAcademy  | C#문법 및 ASP        |https://www.youtube.com/channel/UCwHgaNnrsqAyoCtqd2WbY1w/videos  | 
 |    트레커  | C# 프로그램 개발   | https://www.youtube.com/channel/UCJesFlWv5j9i_vUFB-4R5pw/videos?view=0&sort=p&shelf_id=2 | 
-
+|    장문석  | C#문법  | https://www.youtube.com/watch?v=k0MpQB9RbwQ&list=PL_fV1knZRgi5Tv_MtUPFWlkWsw6k2ZjZu | 
+|    팬돌이  | C# 프로그램개발  | https://www.youtube.com/channel/UCuTW2a9b8uuX1RaPFB-QMg/videos | 
+|    이예찬  | C# 프로그램개발  | https://www.youtube.com/watch?v=hoWKi7O7uqQ | 
 
 ### 해외 영상 채널 
 
