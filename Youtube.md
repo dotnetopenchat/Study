@@ -5,7 +5,7 @@
 |    나우캠퍼스  | C#문법 강좌         | https://www.youtube.com/channel/UCl65-Jpz6rSkrZdxagpHQfg      |    
 |    csharpstudy  | C#문법 강좌         | https://www.youtube.com/channel/UCkIhrkRWbv96DQF9OLs6KYg/featured |    
 |    Lyn TV  | C#문법 / WPF        | https://www.youtube.com/channel/UCi0AcmKGMkNyTC20b5aNkaQ |    
-
+|    Dori Dori | Winform        |https://www.youtube.com/channel/UCwHgaNnrsqAyoCtqd2WbY1w/videos  | 
 
 
 ### 해외 영상 채널 
