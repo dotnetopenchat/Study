@@ -11,6 +11,8 @@
 |    장문석  | C#문법  | https://www.youtube.com/watch?v=k0MpQB9RbwQ&list=PL_fV1knZRgi5Tv_MtUPFWlkWsw6k2ZjZu | 
 |    팬돌이  | C# 프로그램개발  | https://www.youtube.com/channel/UCuTW2a9b8uuX1RaPFB-QMg/videos | 
 |    이예찬  | C# 프로그램개발  | https://www.youtube.com/watch?v=hoWKi7O7uqQ | 
+|    포페 티비   | C# 프로그램개발  | https://www.youtube.com/user/bavlet83 |
+|    포페 티비   | ASP. NET  |  https://www.youtube.com/watch?v=Z0ufVZnpWNg |
 
 ### 해외 영상 채널 
 
