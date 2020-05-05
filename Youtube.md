@@ -13,6 +13,7 @@
 |    이예찬  | C# 프로그램개발  | https://www.youtube.com/watch?v=hoWKi7O7uqQ | 
 |    포페 티비   | C# 프로그램개발  | https://www.youtube.com/user/bavlet83 |
 |   이다휘 티비  | ASP. NET  |  https://www.youtube.com/watch?v=Z0ufVZnpWNg |
+|   Seoul Workshop  | xamarin | https://www.youtube.com/playlist?list=PLDAyxeaWPd36ZIFvwe4bOi-HjPnq1XwzQ |
 
 ### 해외 영상 채널 
 
