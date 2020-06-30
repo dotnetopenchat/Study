@@ -43,5 +43,10 @@
 
 | 책 제목              | 내용     | 추천인    | 구매사이트 |E-Book  |   저 자     | 사이트  | 동영상|
 |:-------------------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 누구나 자료 구조와 알고리즘 | 초급 | 푸 | [:link:](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160505061&orderClick=LEa&Kc=) | 무 |제이 웬그로우| |
+| 누구나 자료 구조와 알고리즘 | 초급 | 푸 | [:link:](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160505061&orderClick=LEa&Kc=) | 유 |제이 웬그로우| |
+
+### DB
+| 책 제목              | 내용     | 추천인    | 구매사이트 |E-Book  |   저 자     | 사이트  | 동영상|
+|:-------------------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 모두의 SQL | 초급 | 푸 | [:link:](https://ridibooks.com/books/754024747) | 유 |김도연| |
 
