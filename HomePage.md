@@ -5,13 +5,12 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | CPP  | http://modernescpp.com/ |   | | |
 | CPP  | https://www.fluentcpp.com/ |  | | |
+| CPP  | https://github.com/CppKorea/CppCoreGuidelines |  | | |
+| CPP  | https://en.cppreference.com/w/cpp/links |  | | |
 | C#  | http://www.csharpstudy.com/ |  | | |
 | nodejs | http://arooong.synology.me:5008/List/ContentsView/26 |  | | |
 | Common | https://riptutorial.com/ko |  | | |
 | Common | https://rules.sonarsource.com |  | | |
-
-
-
 
 
 국내 닷넷 개인 사이트
