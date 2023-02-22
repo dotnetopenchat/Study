@@ -29,6 +29,7 @@
 | HEAD FIRST OBJECT ORIENTED ANALYSIS DESIGN  | 중급 | AbsoluteZero | [:link:](https://bit.ly/2V9OgQU) | 무 | 브렛 맥래프린, 게리 폴리스, 데이빗 웨스트 지음 / 신광연, 박종걸 옮김  | |
 | TopCoder 탑코더 알고리즘 트레이닝 | 중급 | 푸 | [:link:](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&barcode=9788968480553) | 무 | 타카하시 나오히로 지음 / 윤인성 옮김  | |
 | Hard Code | 중고급 | AbsoluteZero | [:link:](https://bit.ly/2ZKzgYl) | 무 | 에릭 브레히너 지음 / 박재호, 이해영 옮김  | |
+| 객체지향의 사실과 오해 | 초중급 | 돼지 | [:link:](http://www.yes24.com/Product/Goods/18249021)) | 유 | 조영호 저  | |
 
 ### 네트워크
 
